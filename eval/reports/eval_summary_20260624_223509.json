@@ -1,0 +1,27 @@
+{
+  "run_id": "20260624_223509",
+  "eval_file": "eval\\test_cases.jsonl",
+  "metrics": {
+    "total": 8,
+    "passed": 8,
+    "failed": 0,
+    "pass_rate": 1.0,
+    "risk_accuracy": 1.0,
+    "risk_term_accuracy": 1.0,
+    "high_risk_recall": 1.0,
+    "low_risk_false_positive_rate": 0.0,
+    "rewrite_success_rate": 1.0,
+    "residual_risk_case_rate": 0.0,
+    "title_generation_success_rate": 0.625,
+    "llm_usage_rate": 0.0,
+    "fallback_count": 5,
+    "latency_ms_avg": 167.82,
+    "latency_ms_p95": 685.2
+  },
+  "files": {
+    "summary_json": "eval\\reports\\eval_summary_20260624_223509.json",
+    "detail_jsonl": "eval\\reports\\eval_detail_20260624_223509.jsonl",
+    "summary_csv": "eval\\reports\\eval_summary_20260624_223509.csv",
+    "report_md": "eval\\reports\\eval_report_20260624_223509.md"
+  }
+}

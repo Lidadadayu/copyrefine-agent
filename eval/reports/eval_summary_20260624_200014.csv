@@ -1,0 +1,9 @@
+﻿case_id,passed,expected_risk_level,actual_risk_level,score,risk_level_ok,risk_terms_ok,rewrite_success,residual_risk_count,title_count,version_count,llm_usage,latency_ms,error
+case_001,False,high,high,22,True,True,False,1,3,2,llm,11968.59,
+case_002,True,high,high,52,True,True,True,0,3,2,llm,19460.14,
+case_003,True,low,low,100,True,True,True,0,0,0,unknown,28.28,
+case_004,True,high,high,56,True,True,True,0,0,0,unknown,14.14,
+case_005,True,low,low,96,True,True,True,0,3,0,llm,13281.03,
+case_006,True,low,low,92,True,True,True,0,3,0,llm,12208.69,
+case_007,False,high,high,32,True,True,False,1,3,2,llm,20152.91,
+case_008,True,low,low,96,True,True,True,0,0,0,unknown,41.76,

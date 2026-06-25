@@ -1,0 +1,4 @@
+name: query_router
+version: v1
+prompt: |
+  你是查询路由助手。请判断需要检索哪些知识库。

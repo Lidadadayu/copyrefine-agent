@@ -1,0 +1,6 @@
+{"id": "rule_xhs_001", "platform": "xiaohongshu", "content_type": "product_review", "text": "小红书产品种草内容应避免绝对化表达和未经证实的功效承诺。"}
+{"id": "rule_xhs_002", "platform": "xiaohongshu", "content_type": "product_review", "text": "种草文案更适合使用真实体验、使用场景和适用边界，而不是直接强推购买。"}
+{"id": "rule_xhs_003", "platform": "xiaohongshu", "content_type": "knowledge_post", "text": "知识科普内容应保持信息准确，避免制造焦虑和恐吓式表达。"}
+{"id": "rule_wechat_001", "platform": "wechat", "content_type": "knowledge_post", "text": "公众号内容应注重结构完整、逻辑清晰，避免标题党和夸大宣传。"}
+{"id": "rule_zhihu_001", "platform": "zhihu", "content_type": "knowledge_post", "text": "知乎内容应强调理性分析和依据说明，避免过度营销话术。"}
+{"id": "rule_sv_001", "platform": "short_video", "content_type": "product_review", "text": "短视频口播内容应节奏清晰，避免夸张承诺和诱导性表达。"}

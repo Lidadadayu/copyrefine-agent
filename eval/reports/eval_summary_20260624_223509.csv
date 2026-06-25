@@ -1,0 +1,9 @@
+﻿case_id,passed,expected_risk_level,actual_risk_level,score,risk_level_ok,risk_terms_ok,rewrite_success,residual_risk_count,title_count,version_count,llm_usage,latency_ms,error
+case_001,True,high,high,22,True,True,True,0,3,2,fallback_after_llm_error,685.2,
+case_002,True,high,high,52,True,True,True,0,3,2,fallback_after_llm_error,132.4,
+case_003,True,low,low,100,True,True,True,0,0,0,unknown,32.43,
+case_004,True,high,high,56,True,True,True,0,0,0,unknown,32.15,
+case_005,True,low,low,96,True,True,True,0,3,0,fallback_after_llm_error,147.88,
+case_006,True,low,low,92,True,True,True,0,3,0,fallback_after_llm_error,137.7,
+case_007,True,high,high,32,True,True,True,0,3,2,fallback_after_llm_error,143.11,
+case_008,True,low,low,96,True,True,True,0,0,0,unknown,31.7,

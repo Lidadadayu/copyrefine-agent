@@ -1,0 +1,4 @@
+name: context_compressor
+version: v1
+prompt: |
+  你是上下文压缩助手。请将检索结果压缩成 evidence pack。

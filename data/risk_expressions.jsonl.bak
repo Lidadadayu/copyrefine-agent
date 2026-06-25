@@ -1,0 +1,6 @@
+{"id": "risk_001", "text": "绝对安全", "risk_type": "absolute_claim", "severity": "high", "suggestion": "改为相对安全或使用体验较温和。"}
+{"id": "risk_002", "text": "无副作用", "risk_type": "health_claim", "severity": "high", "suggestion": "避免健康类绝对承诺。"}
+{"id": "risk_003", "text": "7天见效", "risk_type": "effect_promise", "severity": "high", "suggestion": "避免承诺具体时间内产生效果。"}
+{"id": "risk_004", "text": "稳赚不赔", "risk_type": "financial_claim", "severity": "high", "suggestion": "避免承诺收益。"}
+{"id": "risk_005", "text": "保过", "risk_type": "education_claim", "severity": "medium", "suggestion": "避免教育培训类保证结果。"}
+{"id": "risk_006", "text": "全网最低", "risk_type": "price_claim", "severity": "medium", "suggestion": "需要证据支撑，否则建议弱化。"}

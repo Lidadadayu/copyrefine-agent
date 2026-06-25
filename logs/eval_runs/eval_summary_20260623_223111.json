@@ -1,0 +1,8 @@
+{
+  "run_id": "20260623_223111",
+  "total": 8,
+  "passed": 5,
+  "failed": 3,
+  "pass_rate": 0.625,
+  "detail_file": "logs/eval_runs/eval_detail_20260623_223111.jsonl"
+}

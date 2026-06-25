@@ -1,0 +1,4 @@
+name: intent_classifier
+version: v1
+prompt: |
+  你是内容运营任务识别助手。请识别平台、内容类型、任务意图和风险敏感度。
